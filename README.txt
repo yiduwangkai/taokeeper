@@ -1,3 +1,9 @@
+TODO:
+修正下载资源中sql里的一些错误，
+修正SSH获取远程机器负载时出错的问题，
+修正一些不能编绎的错误，
+移除淘宝内部不开源的包。
+
 Notice:The file is encoded by UTF-8
 
 HomePage: http://jm.taobao.org/2012/01/12/zookeeper%E7%9B%91%E6%8E%A7/
