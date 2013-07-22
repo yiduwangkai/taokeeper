@@ -7,16 +7,16 @@ import java.util.List;
 
 import org.I0Itec.zkclient.IZkDataListener;
 import org.I0Itec.zkclient.ZkClient;
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
 import org.apache.zookeeper.CreateMode;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 /**
  * ��˵��: 
  * @author yinshi.nc
  */
 public class Subscriber{
 
-	private static Log log = LogFactory.getLog( Subscriber.class ); // �����־
+	private static Logger log = LoggerFactory.getLogger( Subscriber.class ); // �����־
 	
 	private int okTimes = 0;
 	private String serverList;
