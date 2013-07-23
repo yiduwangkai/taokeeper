@@ -36,7 +36,7 @@
 		<java.version>1.6</java.version>
 
 		<zookeeper.version>3.4.3</zookeeper.version>
-		<zkclient.version>0.2-SNAPSHOT</zkclient.version>
+		<zkclient.version>1.0.1-SNAPSHOT</zkclient.version>
 
 
 
@@ -91,7 +91,7 @@
 		<mysql-connector-java.version>5.1.12</mysql-connector-java.version>
 		<ganymed.ssh.version>build210</ganymed.ssh.version>
 		<jsontools.version>1.7</jsontools.version>
-		<json.version>2.2</json.version>
+		<json.version>20090211</json.version>
 
 
 
