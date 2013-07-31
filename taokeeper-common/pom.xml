@@ -25,11 +25,12 @@
 			<artifactId>zookeeper</artifactId>
 			<classifier>sources</classifier>
 		</dependency>
+
 		<dependency>
 			<groupId>com.taobao.taokeeper</groupId>
 			<artifactId>zkclient</artifactId>
 		</dependency>
-
+            
 		<dependency>
 			<groupId>common.toolkit</groupId>
 			<artifactId>common-toolkit</artifactId>
