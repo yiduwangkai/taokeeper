@@ -118,5 +118,9 @@ Alibaba OpenSource Maven Repository
 			</repositories>
 		</profile>
 	</profiles>
+	
+Future Plan
+	we will fix it and make it support private key.Now it just supports username and password.
+	in the meadwhile, we will make it support to browse the znode info.
 
         
